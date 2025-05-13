@@ -45,7 +45,7 @@ def function(email,passw,i):
 		return True
 	return False
 
-print('\n---------- Welcome To ~10 millions~ Komail-FacebookBruteForce ----------\n')
+print('\n---------- Welcome To AliAliAli~10 millions~ Komail-FacebookBruteForce ----------\n')
 file=open('password.txt','r')
 
 email=input('Enter Email/Username : ')
